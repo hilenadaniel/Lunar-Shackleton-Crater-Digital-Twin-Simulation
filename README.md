@@ -49,6 +49,6 @@ An interactive Digital Twin simulation of Shackleton Crater developed during a N
 
 ## Author
 
-Daniel Hilena
+Hilena Daniel
 
 NASA OSTEM Intern
